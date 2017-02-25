@@ -1,0 +1,82 @@
+﻿/*body{
+background-color:yellow;
+}*/
+.zag{
+color:green;
+font-size:50px;
+font-style:italic;
+}
+.date{
+color:blue;
+font-size:10px;
+font-style:italic;
+float:left;
+}
+
+body, html{
+
+font: 12px tahoma;
+margin: 0px;
+padding: 0px;
+background:#999900;
+}
+ 
+div{
+text-align: center;
+}
+ 
+.wrap{
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+background:#CCCCCC;
+padding: 20px;
+}
+ 
+.header{
+background:#CCCC99;
+padding: 10px;
+
+}               
+.sidebar{
+width: 40%;
+background: #CCCCCC;
+height:100%;
+float:right;
+}
+ 
+.content{
+float: left;
+width: 60%;
+background:#CCCC99;
+
+}
+/* index str */
+.tab{
+float:left;
+/*width:100%;*/
+background:orange;
+
+}
+ 
+.bottom{
+background:green;
+    clear: both; /* запрещаем обтекание с обоих сторон, блок выводится с новой строки */
+    color:blue;
+}
+.foot{
+font-color:white;
+font-size:15px;
+}
+/*Vibor temi -article   */
+
+.resultArticle{
+
+font-size:26px;
+font-family: Times Nev Roman,Times,arial,serif;
+color:#003300;
+/*font-style:italic;
+/*
+font: 
+color:*/
+}
